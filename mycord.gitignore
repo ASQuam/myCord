@@ -1,0 +1,11 @@
+# Compiled output
+*.o
+*.out
+client
+server
+
+# Editor/OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
